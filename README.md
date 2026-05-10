@@ -73,7 +73,7 @@
 
 ### Tools / Data
 
-`Git` · `GitHub` · `Linux` · `SQL` · `Neon.tech` · `Supabase` · `Vercel`
+`Git` · `GitHub` · `Linux` · `SQL` · `Neon` · `Supabase` · `Vercel`
 
 <br/>
 
@@ -86,7 +86,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux"/>
-<img src="https://img.shields.io/badge/-Neon.tech-00E599?style=for-the-badge&logo=neon&logoColor=111111" alt="Neon.tech"/>
+<img src="https://img.shields.io/badge/-Neon-000000?style=for-the-badge&logo=neon&logoColor=00E599" alt="Neon"/>
 <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=111111" alt="Supabase"/>
 <img src="https://img.shields.io/badge/-Prompt_Engineering-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
 
