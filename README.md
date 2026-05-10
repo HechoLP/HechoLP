@@ -94,6 +94,36 @@
 
 ---
 
+## 🤖 Prompt Engineering
+
+- AI를 단순한 답변 도구가 아니라, **문제 정의와 해결 흐름을 정리하는 개발 도구**로 활용합니다.
+- 요구사항을 더 명확하게 쪼개고, 코드 작성/디버깅/기획 과정에서 더 나은 결과를 얻는 프롬프트를 실험합니다.
+- 작은 아이디어를 빠르게 검증하고 서비스 형태로 옮기는 과정에 AI를 연결하는 데 관심이 있습니다.
+
+---
+
+## 🏅 Certifications
+
+- **ITQ** | KPC 자격, 2025.01
+- 아래한글 `A` · 한글엑셀 `B` · 한글파워포인트 `A`
+
+---
+
+## 🖥 Terminal
+
+```bash
+$ whoami
+Lee Rang · GBSW · Web / Backend Developer
+
+$ focus
+Python · Java · Linux · Neon · Supabase · Prompt Engineering
+
+$ goal
+"내가 만든 걸 누군가 실제로 쓰는 것"
+```
+
+---
+
 ## 📬 Contact
 
 - 프로젝트 협업, 해커톤, 팀 프로젝트 제안은 **contact@dlfkd.dev**로 연락 주세요.
