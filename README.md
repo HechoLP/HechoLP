@@ -113,7 +113,7 @@
 
 ```bash
 $ whoami
-Lee Rang · GBSW · Web / Backend Developer
+Lee Rang · GBSW · Web Developer
 
 $ focus
 Python · Java · Linux · Neon · Supabase · Prompt Engineering
