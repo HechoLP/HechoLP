@@ -2,8 +2,9 @@
 
 # ⚡ HechoLP
 
-**보이는 화면을 만들고, 움직이는 경험으로 다듬는 개발자입니다.**  
-웹 UI, AI 기능, 인터랙티브 프론트엔드를 중심으로 작고 선명한 서비스를 만듭니다.
+**경북 포항에서 코드 치는 만 15세 개발자, 이랑입니다.**  
+처음 만든 버튼이 클릭됐을 때의 `"아 이게 되네."`라는 감각으로  
+배우면서 만들고, 만들면서 더 배우고 있습니다.
 
 <br/>
 
@@ -13,16 +14,13 @@
 <a href="https://dlfkd.dev">
   <img src="https://img.shields.io/badge/WEBSITE-dlfkd.dev-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
 </a>
-<a href="https://github.com/HechoLP/portfolio">
-  <img src="https://img.shields.io/badge/PORTFOLIO-OPEN-22C55E?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio"/>
-</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/GBSW-2026-64748B?style=flat-square" alt="GBSW 2026"/>
-<img src="https://img.shields.io/badge/Focus-Interactive_UI-F43F5E?style=flat-square" alt="Interactive UI"/>
-<img src="https://img.shields.io/badge/Stack-Web_%2F_AI-8B5CF6?style=flat-square" alt="Web AI"/>
-<img src="https://img.shields.io/badge/Learning-Full_Stack-10B981?style=flat-square" alt="Full Stack"/>
+<img src="https://img.shields.io/badge/School-GBSW-64748B?style=flat-square" alt="GBSW"/>
+<img src="https://img.shields.io/badge/Location-Pohang%2C_KR-0EA5E9?style=flat-square" alt="Pohang"/>
+<img src="https://img.shields.io/badge/Projects-3-22C55E?style=flat-square" alt="Projects"/>
+<img src="https://img.shields.io/badge/Open_to-Team_Project_%2F_Hackathon-F43F5E?style=flat-square" alt="Open to team project and hackathon"/>
 
 </div>
 
@@ -30,57 +28,69 @@
 
 ## 👋 소개 (About Me)
 
-- 안녕하세요, 웹 인터페이스와 사용자 경험을 좋아하는 **HechoLP**입니다.
-- 단순히 예쁜 페이지보다, 사용자가 직접 만지고 반응을 느낄 수 있는 화면을 만드는 데 관심이 많습니다.
-- 스크롤 애니메이션, 인터랙티브 UI, 포트폴리오, AI 챗봇/자동화 프로젝트를 중심으로 공부하고 있습니다.
-- 현재는 프론트엔드를 기반으로 백엔드와 AI 기능까지 연결하는 풀스택 개발 역량을 넓혀가고 있습니다.
+- 안녕하세요, **경북소프트웨어마이스터고**에서 개발을 공부하고 있는 **이랑(Lee Rang)**입니다.
+- 목표는 단순합니다. **내가 만든 걸 누군가 실제로 쓰는 것.**
+- 웹과 백엔드를 중심으로 작은 아이디어를 서비스 형태로 만들고, 오류를 고치며 구조를 다듬는 과정을 좋아합니다.
+- 아직 배우는 중이지만, 배우면서 만들고 만들면서 더 배웁니다.
 
 ---
 
 ## 🧩 주요 프로젝트 (Featured Projects)
 
-### Portfolio
+### 창업 프로젝트
 
-- 개인 포트폴리오 웹사이트를 만들고 배포하며, 첫 화면의 인상과 인터랙션을 다듬는 프로젝트입니다.
-- 화면 구성, 반응형 레이아웃, 애니메이션 흐름을 직접 설계했습니다.
-- Repository: [HechoLP/portfolio](https://github.com/HechoLP/portfolio)
+- **JA Company 창업 프로젝트**에 참여하며 실제 서비스에 가까운 기능 흐름을 경험하고 있습니다.
+- 기획된 아이디어를 구현 가능한 화면과 기능으로 옮기고, 팀 프로젝트 안에서 필요한 개발 역할을 맡고 있습니다.
+- Status: `Active`
 
-### Discord Ollama Agents
+### 소마고 프로젝트
 
-- 로컬 AI 모델과 디스코드 봇을 연결해보는 실험형 프로젝트입니다.
-- AI 기능을 실제 대화형 인터페이스로 붙이는 흐름을 다뤘습니다.
-- Repository: [HechoLP/discord-ollama-agents](https://github.com/HechoLP/discord-ollama-agents)
+- 전국 소프트웨어마이스터고를 묶는 **SNS 개발 프로젝트**입니다.
+- 백엔드 담당으로 참여하며 `Java` 기반 기능 설계와 리팩토링을 다루고 있습니다.
+- Status: `Paused`
 
-### Interactive UI Experiments
+### 매점 프로젝트
 
-- iPhone Dynamic Island, AirPods 스크롤, Solar System 같은 비주얼/인터랙션 실험을 만들었습니다.
-- 정적인 페이지보다 움직임이 있는 웹 경험을 구현하는 연습을 하고 있습니다.
-- Repositories: [Iphone-14-Dynamic-islands](https://github.com/HechoLP/Iphone-14-Dynamic-islands), [Apple-AirPod-Scrolling](https://github.com/HechoLP/Apple-AirPod-Scrolling), [solar-system](https://github.com/HechoLP/solar-system)
+- 학교 매점을 위한 **키오스크 또는 자판기 시스템**을 구상하고 만드는 프로젝트입니다.
+- 재고와 주문처럼 실제 운영에 필요한 흐름을 더 정확하고 편하게 다루는 방향으로 발전시키고 있습니다.
+- Status: `Paused`
 
 ---
 
 ## 🛠 기술 스택 (Tech Stack)
 
-### Frontend
+### Main
 
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js`
+`Python` · `C` · `HTML / CSS` · `JavaScript` · `Java`
 
-### UI / Motion
+### Web / Interactive
 
-`Responsive UI` · `Scroll Animation` · `Interactive Layout` · `Canvas` · `Three.js`
+`React` · `TypeScript` · `Next.js` · `Node.js` · `Three.js` · `WebGL`
 
-### Backend / AI / Tools
+### Tools / Data
 
-`Node.js` · `Python` · `Ollama` · `Discord Bot` · `Git` · `GitHub`
+`Git` · `GitHub` · `SQL` · `Vercel`
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-87%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 87%"/>
+<img src="https://img.shields.io/badge/C-75%25-A8B9CC?style=for-the-badge&logo=c&logoColor=111111" alt="C 75%"/>
+<img src="https://img.shields.io/badge/HTML%20%2F%20CSS-47%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML CSS 47%"/>
+<img src="https://img.shields.io/badge/JavaScript-47%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript 47%"/>
+<img src="https://img.shields.io/badge/Java-28%25-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 28%"/>
+
+</div>
 
 ---
 
 ## 🧭 지금 집중하는 것 (Current Focus)
 
-- 더 자연스러운 웹 애니메이션과 마이크로 인터랙션
-- AI 기능을 실제 서비스 UI에 자연스럽게 연결하는 방법
-- 포트폴리오와 프로젝트 README를 개발자답게 정리하는 습관
-- 작은 아이디어를 빠르게 만들고, 배포 가능한 결과물로 마무리하는 과정
+- 창업 프로젝트 참여를 통해 팀 단위 개발 경험 쌓기
+- 백엔드 담당으로 API, 데이터 흐름, 리팩토링 감각 키우기
+- 웹 UI와 인터랙션을 더 자연스럽게 만드는 방법 공부하기
+- 학교 안에서 실제로 쓸 수 있는 서비스를 작게라도 완성해보기
 
 ---
 
@@ -97,6 +107,6 @@
 
 <div align="center">
 
-**좋은 화면은 예쁘게 보이는 데서 끝나지 않고, 다음 행동이 자연스럽게 떠오르게 만든다고 믿습니다.**
+**아직 배우는 중이지만, 배우면서 만들고, 만들면서 더 배웁니다.**
 
 </div>
