@@ -59,13 +59,17 @@
 
 ## 🛠 기술 스택 (Tech Stack)
 
-### Main
+### Programming
 
-`Python` · `C` · `HTML / CSS` · `JavaScript` · `Java`
+`Python` · `C`
 
-### Web / Interactive
+### Web Development
 
-`React` · `TypeScript` · `Next.js` · `Node.js` · `Three.js` · `WebGL`
+`HTML` · `CSS` · `JavaScript` · `Java`
+
+### Prompt Engineering
+
+`Prompt Engineering` · `AI 활용` · `문제 정의` · `결과 개선`
 
 ### Tools / Data
 
@@ -80,6 +84,7 @@
 <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-47%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML CSS 47%"/>
 <img src="https://img.shields.io/badge/JavaScript-47%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript 47%"/>
 <img src="https://img.shields.io/badge/Java-28%25-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 28%"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
 
 </div>
 
@@ -91,19 +96,6 @@
 - 백엔드 담당으로 API, 데이터 흐름, 리팩토링 감각 키우기
 - 웹 UI와 인터랙션을 더 자연스럽게 만드는 방법 공부하기
 - 학교 안에서 실제로 쓸 수 있는 서비스를 작게라도 완성해보기
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HechoLP&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HechoLP&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
-
-</div>
-
----
 
 <div align="center">
 
