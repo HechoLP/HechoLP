@@ -73,18 +73,36 @@
 
 ### Tools / Data
 
-`Git` · `GitHub` · `SQL` · `Vercel`
+`Git` · `GitHub` · `Linux` · `SQL` · `Neon.tech` · `Supabase` · `Vercel`
 
 <br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-87%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 87%"/>
-<img src="https://img.shields.io/badge/C-75%25-A8B9CC?style=for-the-badge&logo=c&logoColor=111111" alt="C 75%"/>
-<img src="https://img.shields.io/badge/HTML%20%2F%20CSS-47%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML CSS 47%"/>
-<img src="https://img.shields.io/badge/JavaScript-47%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript 47%"/>
-<img src="https://img.shields.io/badge/Java-28%25-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 28%"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=111111" alt="C"/>
+<img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux"/>
+<img src="https://img.shields.io/badge/-Neon.tech-00E599?style=for-the-badge&logo=neon&logoColor=111111" alt="Neon.tech"/>
+<img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=111111" alt="Supabase"/>
+<img src="https://img.shields.io/badge/-Prompt_Engineering-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
+
+</div>
+
+---
+
+## 📬 Contact
+
+- 프로젝트 협업, 해커톤, 팀 프로젝트 제안은 **contact@dlfkd.dev**로 연락 주세요.
+
+<div align="center">
+
+<a href="mailto:contact@dlfkd.dev">
+  <img src="https://img.shields.io/badge/CONTACT-contact%40dlfkd.dev-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="contact@dlfkd.dev"/>
+</a>
 
 </div>
 
