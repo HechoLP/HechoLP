@@ -109,21 +109,6 @@
 
 ---
 
-## 🖥 Terminal
-
-```bash
-$ whoami
-Lee Rang · GBSW · Web Developer
-
-$ focus
-Python · Java · Linux · Neon · Supabase · Prompt Engineering
-
-$ goal
-"내가 만든 걸 누군가 실제로 쓰는 것"
-```
-
----
-
 ## 📬 Contact
 
 - 프로젝트 협업, 해커톤, 팀 프로젝트 제안은 **contact@dlfkd.dev**로 연락 주세요.
