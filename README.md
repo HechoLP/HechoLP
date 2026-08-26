@@ -59,7 +59,7 @@
 
 ### Web Development
 
-`HTML` · `CSS` · `JavaScript` · `Java`
+`HTML` · `CSS` · `JavaScript` · `React` · `Java`
 
 ### Prompt Engineering
 
@@ -78,6 +78,7 @@
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=111111" alt="React"/>
 <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux"/>
 <img src="https://img.shields.io/badge/-Neon-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjMDBFNTk5IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2bTmVvbjwvdGl0bGU%2bPHBhdGggZD0iTTI0IDBWMjRsLTkuMzY1LTguMDQ1VjI0SDBWMFpNMi45NDIgMjEuMDg3aDguNzUxVjkuNTYzbDkuMzY1IDguMjA0VjIuOTE5TDIuOTQyIDIuOTE0WiIvPjwvc3ZnPg%3d%3d" alt="Neon"/>
@@ -111,6 +112,7 @@
 - **경북소프트웨어마이스터고 매점 프로젝트** (진행중)
 - **소마고 SNS 프로젝트** (진행중)
 - **Ja Korea 창업 프로젝트** (진행중)
+- **2026 Geeks 해커톤**
 - **2026 경북 청소년 창업 해커톤 경진대회** (창의상)
 - **전공 동아리 주간 프레임 동아리 1등** (득표율 90%)
 
